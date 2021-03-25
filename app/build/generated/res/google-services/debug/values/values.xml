@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1003645153984-te4tid7crj81v6fl2k2jk82ceq0sovgu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1003645153984</string>
+    <string name="google_api_key" translatable="false">AIzaSyC8v3WIdoh_u4pCQUrT_YWXWMhfM1E1bu8</string>
+    <string name="google_app_id" translatable="false">1:1003645153984:android:4e99adf8beab5f61647325</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC8v3WIdoh_u4pCQUrT_YWXWMhfM1E1bu8</string>
+    <string name="google_storage_bucket" translatable="false">pomodoro-app-cc53e.appspot.com</string>
+    <string name="project_id" translatable="false">pomodoro-app-cc53e</string>
+</resources>
